@@ -1,2 +1,0 @@
-# Lading-page-Cine
-Web
